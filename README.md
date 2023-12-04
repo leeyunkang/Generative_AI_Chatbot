@@ -46,4 +46,4 @@ Prompting is a technique used to guide text generation from language models by p
 ### Zero-Shot Prompting:
 - Generating text without task-specific fine-tuning
 ### Chain of Thought Prompting:
-- Providing a sequence of prompts to guide the generation pro
+- Providing a sequence of prompts to guide the generation process iteratively
